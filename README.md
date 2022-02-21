@@ -26,7 +26,7 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JENNYKIM74&hide=contribs&count_private=true&show_icons=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
- <div align=center> <h3>👤 notion 이력서(CV)</h3> </div>
+
 
  </div> 
 
